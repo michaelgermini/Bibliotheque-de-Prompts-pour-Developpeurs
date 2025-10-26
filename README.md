@@ -1,7 +1,5 @@
 # 📚 Bibliothèque de Prompts pour Développeurs
 
-**Version définitive - ~300 pages**
-
 ## 🚀 Introduction
 
 Ce livre est votre guide complet pour maîtriser l'art de l'ingénierie de prompt dans le développement logiciel. Conçu spécifiquement pour les développeurs qui veulent optimiser leur workflow avec l'IA, cet ouvrage couvre tous les aspects du développement moderne.
